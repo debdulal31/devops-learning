@@ -211,9 +211,14 @@ This provides a systematic approach to diagnosing common server problems.
 
 ## Progress
 
-- [x] Linux filesystem and directory structure — theory
+- [x] Linux filesystem and directory structure
 - [x] Users, groups, and ownership — reviewed
 - [x] File permissions — reviewed
-- [x] Process and service concepts — theory
-- [x] Process commands — reviewed
-- [x] Hands-on process-management lab — to be completed
+- [x] Process and service concepts
+- [x] Process inspection with `ps`, `ps aux`, and `top`
+- [x] Foreground and background processes
+- [x] Process termination using `kill`
+- [x] File and directory management using `mkdir`, `touch`, `cp`, `mv`, `rm`, and `ls -R`
+- [x] Knowledge check completed
+
+**Status:** Day 2 — Theory and practical exercises completed.
